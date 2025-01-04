@@ -150,13 +150,9 @@ ul {
 
   .hero-image {
     max-width: 40%;
-    border-radius: 8px;
+    border-radius: 1px;
     animation: fadeIn 2s ease-in-out;
-    padding-right: 10%;
-  }
-
-  .hero-text {
-    margin-right: 60px;
+    padding-right: 5%;
   }
 
   .hero-text h2 {
@@ -166,7 +162,7 @@ ul {
 
   .hero-text p {
     font-size: 0.8em;
-    line-height: 1.6;
+    line-height: 1.2;
   }
 
   .section {
