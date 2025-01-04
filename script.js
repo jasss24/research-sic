@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   sections.forEach((section) => {
     section.addEventListener("mouseover", () => {
-      section.style.boxShadow = "0 8px 16px rgba(255, 140, 0, 0.6)";
+      section.style.boxShadow = "0 10px 16px rgba(65, 64, 63, 0.6)";
     });
 
     section.addEventListener("mouseout", () => {
